@@ -31,9 +31,9 @@ This project is a small demonstration of a responsive React navbar. It showcases
 ## Installation
 
 1. Clone the repository
-   
+   https://github.com/alexgrubor/sticky_and_resnovsive_navbar
 2. Navigate to the project directory
-   
+   cd sticky_and_resnovsive_navbar
 3.  Install the dependencies:
     npm i
 4.  Start the development server:
